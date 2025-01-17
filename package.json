@@ -1,0 +1,24 @@
+{
+  "name": "module-7-challenge",
+  "version": "1.0.0",
+  "description": "This command line app generates a readme.md file from user inputs.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wick000/Module-7-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wick000/Module-7-Challenge/issues"
+  },
+  "homepage": "https://github.com/Wick000/Module-7-Challenge#readme",
+  "dependencies": {
+    "inquirer": "^12.3.2"
+  }
+}
