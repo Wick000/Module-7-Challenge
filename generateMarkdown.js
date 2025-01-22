@@ -90,7 +90,7 @@ ${data.test}
 
 ## Questions
 
-If you have any questions, feel free to reach out to me at ${data.email}. You can also find me on GitHub at [${data.gitHub}](https://github.com/${data.gitHub}).
+If you have any questions, feel free to reach out to me at [${data.email}](mailto:${data.email}). You can also find me on GitHub at [${data.gitHub}](https://github.com/${data.gitHub}).
 `;
 }
 
